@@ -28,6 +28,3 @@ const withErrorBoundary = <T extends Record<string, never>>(
     }
 
 export default withErrorBoundary
-
-
-

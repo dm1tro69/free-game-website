@@ -10,4 +10,5 @@ const Home = (): ReactElement => {
     );
 };
 
+
 export default withErrorBoundary(Home);
