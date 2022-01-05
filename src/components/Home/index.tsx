@@ -4,9 +4,9 @@ import withErrorBoundary from "hoc/withErrorBoundary";
 
 const Home = (): ReactElement => {
     return (
-        <div>
+        <main>
             <Games/>
-        </div>
+        </main>
     );
 };
 
